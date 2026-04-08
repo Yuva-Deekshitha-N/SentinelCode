@@ -1,0 +1,12 @@
+# SentinelCodeAI own files — skip to avoid false positives
+src/core/secrets.py
+src/core/leaks.py
+src/core/fixer.py
+src/ai/nlp.py
+src/scanner.py
+src/cli.py
+src/git_hooks/pre_commit.py
+tests/
+docs/
+README.md
+test_samples/
